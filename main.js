@@ -1,1 +1,1 @@
-document.querySelector('body').innerHTML = 'Hello World'
+import './pages/learn1'
