@@ -1,1 +1,1 @@
-import './pages/learn1'
+import './pages/learn-2'
